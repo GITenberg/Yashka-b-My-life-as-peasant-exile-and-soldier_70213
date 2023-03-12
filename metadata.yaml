@@ -1,0 +1,30 @@
+_repo: Yashka-b-My-life-as-peasant-exile-and-soldier_70213
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Botchkareva, Maria
+    gutenberg_agent_id: '55655'
+    url: http://www.gutenberg.org/2009/agents/55655
+  - agent_name: Levine, Isaac Don
+    gutenberg_agent_id: '55656'
+    url: http://www.gutenberg.org/2009/agents/55656
+description: ''
+gutenberg_issued: '2023-03-06'
+identifiers:
+  gutenberg: '70213'
+language: en
+pgterms:marc904: https://archive.org/details/yashkamylifeaspe00bochuoft/page/n7/mode/2up
+pgterms:marc905: 20201112092836botchkarev
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aUnited Kingdom :$bConstable and Company Limited, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yashka : $b My life as peasant, exile and soldier'
+url: http://www.gutenberg.org/ebooks/70213
